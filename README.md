@@ -16,6 +16,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roastt1&show_icons=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roastt1&layout=compact" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roastt1&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roastt1&layout=compact" height="150" />
 </p>
