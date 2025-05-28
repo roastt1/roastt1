@@ -1,10 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:a82da8,100:6076f1&height=250&section=header&text=Welcome%20to%20the%20JoonSeon's%20Github&fontSize=30&fontAlign=70" />
 <h1 align="center">👋 Hi, I'm Park Joon Seon</h1>
 <p align="center">
   Passionate Frontend Developer
 </p>
 
 ---
-
 ### 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
