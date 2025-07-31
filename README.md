@@ -27,4 +27,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=roastt1&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roastt1&layout=compact" height="150" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:6076f1&height=150&section=footer" />
