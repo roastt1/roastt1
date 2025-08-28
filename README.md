@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ 기술 스택
+### 🛠️ Teck Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -21,9 +21,16 @@
 ---
 
 
-### 📈 GitHub 통계
+### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roastt1&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roastt1&layout=compact" height="150" />
 </p>
+
+---
+
+### 📬 Contact
+<ul>
+  <li>Email: <a href="mailto:roastt1@naver.com">roastt1@naver.com</a></li>
+</ul>
