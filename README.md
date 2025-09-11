@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:a82da8,100:6076f1&height=250&section=header&text=Welcome%20to%20the%20JoonSeon's%20Github&fontSize=30&fontAlign=70" />
 <h1 align="center">👋 안녕하세요, 박준선입니다</h1>
 <p align="center">
-  항상 사용자 입장에서 고민하며, 더 나은 경험을 만드는 프론트엔드 개발자입니다.<br />
+  항상 사용자 입장에서 고민하며, 더 나은 사용자 경험을 추구하는 프론트엔드 개발자입니다.<br />
   누구나 *<strong>직관적이고 편하게</strong>* 사용할 수 있는 웹을 지향합니다.
 </p>
 
